@@ -1,0 +1,6 @@
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\bin\Release\NeuralNetworks.exe.config
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\bin\Release\NeuralNetworks.exe
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\bin\Release\NeuralNetworks.pdb
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\obj\Release\NeuralNetworks.exe
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\obj\Release\NeuralNetworks.pdb
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\obj\Release\NeuralNetworks.csprojResolveAssemblyReference.cache

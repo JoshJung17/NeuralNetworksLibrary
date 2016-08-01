@@ -1,0 +1,11 @@
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.exe.config
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.exe
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.exe
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.pdb
+C:\Users\Josh\Desktop\Projects\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\Projects\Machine Learning\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.exe.config
+C:\Users\Josh\Desktop\Projects\Machine Learning\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.exe
+C:\Users\Josh\Desktop\Projects\Machine Learning\NeuralNetworks\NeuralNetworks\obj\Debug\NeuralNetworks.pdb
+C:\Users\Josh\Desktop\Projects\Machine Learning\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.exe
+C:\Users\Josh\Desktop\Projects\Machine Learning\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
